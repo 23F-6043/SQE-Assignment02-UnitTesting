@@ -1,0 +1,5 @@
+TestCase,Input1,Input2,Expected,Category
+TC001,5,3,8,Valid
+TC002,-5,-3,-8,Valid
+TC003,0,0,0,Edge
+TC004,100,200,300,Valid
